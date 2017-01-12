@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>NuGetForUnityUpdater</id>
+    <version>0.0.1</version>
+    <authors>ReCreation Studios</authors>
+    <owners>ReCreation Studios</owners>
+    <licenseUrl>http://your_license_url_here</licenseUrl>
+    <projectUrl>http://your_project_url_here</projectUrl>
+    <iconUrl>https://www.nuget.org/Content/Images/packageDefaultIcon-50x50.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Allows for easily updating the installed NuGetForUnity package</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags></tags>
+  </metadata>
+</package>
